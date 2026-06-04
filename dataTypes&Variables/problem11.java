@@ -4,7 +4,7 @@ public class problem11 {
         Scanner sc = new Scanner(System.in);
         String name = sc.nextLine(); 
         int age = sc.nextInt();
-        float mark = sc.nextFloat();
+        float mark = sc.nextFloat(); 
 
 
         System.out.println("Name :" +name);
