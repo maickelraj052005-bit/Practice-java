@@ -7,7 +7,7 @@ public class problem11 {
         float mark = sc.nextFloat(); 
 
 
-        System.out.println("Name :" +name);
+        System.out.println("Name :" +name); 
         System.out.println("Age :" +age);
         System.out.println("Mark :" +mark);
 
