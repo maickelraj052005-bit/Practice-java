@@ -5,7 +5,7 @@ public class problem10 {
 
         int product=sc.nextInt();
         int factor= sc.nextInt();
-
+ 
         int result = product*factor;
 
         System.out.println("The product is : "+result);
