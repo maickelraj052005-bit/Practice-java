@@ -1,7 +1,7 @@
 import java.util.*;;
 public class problem10 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in); 
 
         int product=sc.nextInt();
         int factor= sc.nextInt();
