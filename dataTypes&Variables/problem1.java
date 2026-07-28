@@ -8,5 +8,5 @@ public class problem1 {
         System.out.println(num);  
         sc.close();
 
-    }
+    } 
 }
